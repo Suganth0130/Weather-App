@@ -31,13 +31,7 @@ This is a simple weather application built with Vite and React, designed to prov
 
 Contributions are welcome! If you find any issues or would like to add new features, feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-[Your Name] - [Your Website/Blog](https://yourwebsite.com)
 
 ## Acknowledgments
 
